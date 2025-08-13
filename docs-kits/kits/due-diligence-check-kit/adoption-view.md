@@ -32,37 +32,9 @@ xxx
 
 xxx
 
-## Business Architecture
+## Architecture
 
-### Personas
-
-### Customer Journeys
-
-### Business Capabilities
-
-### Business Processes
-
-### Business Rules
-
-### Access and Usage Policy
-
-## Technology Architecture
-
-### Integration Models
-
-### APIs
-
-## Data Architecture
-
-### Semantic Data Model (Ontology)
-
-### Syntactical Data Model (Schema)
-
-### Data Flows
-
-## Non-Functional Requirements
-
-## Constraints and Assumptions
+The Architecture describes the use case from a business, data and technology perspective and how it integrates into the business processes and IT landscape of the organization adopting the Due Diligence Check use case. The architecture description can be found here.
 
 ## Supporting Information
 
