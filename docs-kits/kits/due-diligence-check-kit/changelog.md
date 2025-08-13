@@ -9,7 +9,7 @@ toc_max_heading_level: 2
 
 ## DDC KIT Changelog
 
-All notable changes to this Kit will be documented in this file.
+All notable changes to this KIT will be documented in this file.
 
 ## [0.0.1] - 2025-08-14
 
