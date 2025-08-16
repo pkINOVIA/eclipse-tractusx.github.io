@@ -23,7 +23,7 @@ toc_max_heading_level: 2
 
 ### Access and Usage Policy
 
-## Technology Architecture
+## Application Architecture
 
 ### Integration Models
 
